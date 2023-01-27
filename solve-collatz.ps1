@@ -1,4 +1,4 @@
-function Do-Collatz{
+function Solve-Collatz{
     param(
          [Parameter(Mandatory)]
          [long]$Number
